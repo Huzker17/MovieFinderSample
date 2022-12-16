@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     public class TelegramBot
     {
-        private static string token = "5671941125:AAFclwvke3W5kAD6XrBX4RLYO4WAc1wZheU";
+        private static string token = "";
         private static ITelegramBotClient bot;
         private static CancellationTokenSource cts;
         private IScreenShoter _screenShoter;
