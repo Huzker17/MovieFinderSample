@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<env-variables>
+	<env-var name="GOOGLE_APPLICATION_CREDENTIALS"
+		value="WEB-INF/application_default_credentials.json.json" />
+</env-variables>
